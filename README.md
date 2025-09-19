@@ -11,6 +11,8 @@ Materiais, anotações e exercícios sobre AWS Foundations, cobrindo os principa
 
 ## 📝 Anotações
 
+[Notion](https://www.notion.so/Santander-Code-Girls-2621fec5a7ae80e9a3fed1bb77c02fdf?pvs=21)
+
 ### 🔹 Dicas
 - **Artigos/Fórum:** Compartilhar conteúdos técnicos através de [Artigos da DIO](https://web.dio.me/articles) ou tirar dúvidas nos Fóruns.  
 - **Pesquisa:** Use buscadores como complemento para entender conceitos, erros e exemplos de aplicação.  
