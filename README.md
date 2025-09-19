@@ -1,6 +1,7 @@
 # AwsFoundations
 💡 Este repositório é parte da minha jornada de estudos em Cloud Computing e AWS.
 Materiais, anotações e exercícios sobre AWS Foundations, cobrindo os principais conceitos de computação em nuvem, serviços essenciais da AWS e boas práticas.
+
 ## 📌 Estrutura do Repositório
 - **Dicas** → Recursos extras de estudo e boas práticas.  
 - **Módulo 1** → Introdução à AWS, infraestrutura global, modelo de negócios e primeiros passos.  
@@ -11,6 +12,7 @@ Materiais, anotações e exercícios sobre AWS Foundations, cobrindo os principa
 
 ## 📝 Anotações
 
+**Caderno de estudos:** [Notion](https://www.notion.so/Santander-Code-Girls-2621fec5a7ae80e9a3fed1bb77c02fdf?pvs=21)
 ### 🔹 Dicas
 - **Artigos/Fórum:** Compartilhar conteúdos técnicos através de [Artigos da DIO](https://web.dio.me/articles) ou tirar dúvidas nos Fóruns.  
 - **Pesquisa:** Use buscadores como complemento para entender conceitos, erros e exemplos de aplicação.  
