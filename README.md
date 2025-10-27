@@ -94,7 +94,7 @@ aws configure list
 - Amazon SNS: envio de notificações em massa.
 - Amazon SQS: filas de mensagens para comunicação assíncrona.
 
-### 📨 Governança e gerenciamento na AWS
+### 🏛️ Governança e gerenciamento na AWS
 
 - AWS CloudWatch: Monitoramento de eventos.
 - CloudTrail: Auditoria operacional.
