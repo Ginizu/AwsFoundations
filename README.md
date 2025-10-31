@@ -1,6 +1,27 @@
 # AwsFoundations
 💡 Este repositório é parte da minha jornada de estudos em Cloud Computing e AWS.
 Materiais, anotações e exercícios sobre AWS Foundations, cobrindo os principais conceitos de computação em nuvem, serviços essenciais da AWS e boas práticas.
+
+---
+
+## 📚 Sumário
+- [📁 Estrutura do Repositório](#-estrutura-do-repositório)
+- [📝 Anotações](#-anotações)
+- [💡 Dicas](#-dicas)
+- [🔹 Introdução à AWS e Conceitos Básicos](#-introdução-à-aws-e-conceitos-básicos)
+- [💻 Amazon EC2 (Elastic Compute Cloud)](#-amazon-ec2-elastic-compute-cloud)
+- [🛜 Rede na AWS](#-rede-na-aws)
+- [🎲 Banco de Dados na AWS](#-banco-de-dados-na-aws)
+- [🗃️ Serviços de Armazenamento e CDN](#️-serviços-de-armazenamento-e-cdn)
+- [📨 Serviços Intermediários e Avançados](#-serviços-intermediários-e-avançados)
+- [🏛️ Governança e Gerenciamento na AWS](#️-governança-e-gerenciamento-na-aws)
+- [🛡️ Segurança na AWS](#️-segurança-na-aws)
+- [👩‍💻 Desenvolvimento e Ferramentas](#-desenvolvimento-e-ferramentas)
+- [🛠️ Automação e DevOps na AWS](#️-automação-e-devops-na-aws)
+- [🧠 Objetivo](#-objetivo)
+
+---
+
 ## 📌 Estrutura do Repositório
 - **Dicas** → Recursos extras de estudo e boas práticas.  
 - **Módulo 1** → Introdução à AWS, infraestrutura global, modelo de negócios e primeiros passos.  
