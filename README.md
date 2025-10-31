@@ -101,6 +101,18 @@ aws configure list
 - CloudFormation: Automação de recursos.
 - AWS IAM: Gestão de acesso.
 
+### 🛡️ Segurança na AWS
+
+- Responsabilidade compartilhada: Papel do usuario e da AWS.
+- Criptografia de dados.
+- AWS WAF: Web Application firewall
+
+### 👩‍💻 Desenvolvimento e Ferramenta
+- AWS SDK e CLI: Código executavel e linhas de comando
+- Cloudformation x Terraform.
+
+### 🛠️ Automação e DevOps na AWS
+
 
 ---
 
